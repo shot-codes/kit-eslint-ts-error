@@ -7,10 +7,10 @@ pnpm create svelte@latest app
 ```
 ✔ Which Svelte app template? › Skeleton project
 ✔ Add type checking with TypeScript? › Yes, using TypeScript syntax
-✔ Add ESLint for code linting? … No / Yes
-✔ Add Prettier for code formatting? … No / Yes
-✔ Add Playwright for browser testing? … No / Yes
-✔ Add Vitest for unit testing? … No / Yes
+✔ Add ESLint for code linting? … Yes
+✔ Add Prettier for code formatting? … Yes
+✔ Add Playwright for browser testing? … No
+✔ Add Vitest for unit testing? … No
 ```
 
 ```bash
